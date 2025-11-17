@@ -1,0 +1,6 @@
+sku,on_hand,reorder_point,lead_time_days
+VAC100,600,400,28
+VAC200,300,250,35
+LED300,1200,700,21
+MASS400,450,300,30
+AUDIO500,800,500,25
